@@ -1,4 +1,5 @@
 # acessibilidade-web-front-end
  Projeto do curso da Alura de Acessibilidade na Web
+![Apeperia](Apeperia.png)
 ---
-![Apeperia](Apeperia.png)(https://maleixorm.github.io/acessibilidade-web-front-end/)
+[Apeperia - Site](https://maleixorm.github.io/acessibilidade-web-front-end/)
